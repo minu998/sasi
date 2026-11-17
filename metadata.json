@@ -1,0 +1,6 @@
+{
+  "name": "FireBoost FF Optimizer",
+  "description": "Free Fire and Free Fire MAX game launcher, auto-cache sweeper, live FPS and ping diagnostics, thermal cooling advisor, sensitivity tuner, and Android ADB optimization toolkit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
